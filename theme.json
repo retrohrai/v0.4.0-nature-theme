@@ -29,6 +29,7 @@
       "psp": "backgrounds/psp.gif",
       "vita": "backgrounds/vita.gif",
       "genesis": "backgrounds/genesis.gif",
+      "dreamcast": "backgrounds/dreamcast.gif",
       "mame": "backgrounds/mame.gif",
       "windows": "backgrounds/windows.gif",
       "android": "backgrounds/android.gif"
@@ -50,6 +51,7 @@
       "psp": "logos/psp.png",
       "vita": "logos/vita.png",
       "genesis": "logos/genesis.png",
+      "dreamcast": "logos/dreamcast.png",
       "mame": "logos/mame.png",
       "windows": "logos/windows.png",
       "android": "logos/android.png"
