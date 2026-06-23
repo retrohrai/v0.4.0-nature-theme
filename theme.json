@@ -9,6 +9,17 @@
     "BACKGROUNDS",
     "LOGOS"
   ],
+  "settingsPreset": {
+    "schema": 1,
+    "global": {
+      "enablePlatformBrowser": true,
+      "platformBrowserViewMode": "Grid",
+      "platformGridColumns": 4,
+      "platformGridCardShape": "Landscape",
+      "platformCardShowBackground": true,
+      "platformCardForeground": "Logo"
+    }
+  },
   "backgrounds": {
     "platforms": {
       "favorites_collection": "backgrounds/favorites.gif",
